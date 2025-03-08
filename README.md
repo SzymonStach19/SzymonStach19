@@ -26,5 +26,5 @@
 
 <h3>Thanks for stopping by, and happy coding! 🚀</h3>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SzymonStach19&color=white" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=SzymonStach19&color=red" alt="Profile views counter" />
 </p>
