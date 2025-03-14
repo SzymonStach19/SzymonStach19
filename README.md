@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Simon</h1>
 <p>📚I'm studying computer science at Silesian University of Technology</p>
-<p>👨‍💻Currently working on smart trip planner website</p>
+<p>👨‍💻Currently working on my friend's website</p>
 <p>📌 Open to Work: Looking for opportunities in software development, web development, or related fields.</p> 
 <h3>Feel free to reach out!</h3>
 <h2>🚀 Languages and Tools I Use</h2>
